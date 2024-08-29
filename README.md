@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2561&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2561" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://portfolio-uy4c.onrender.com/)
 
 - 💬 Ask me about **MERN stack**
 
