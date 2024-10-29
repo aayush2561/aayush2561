@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aayush dhakal</h1>
-<h3 align="center">A passionate backend develpoer from Nepal.</h3>
+<img src="https://github.com/aayush2561/aayush2561/blob/main/image/Header.png" width="1000">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Backend+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2561&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2561" /> </p>
 
