@@ -11,9 +11,6 @@
 ## 🚀 Skillset
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,git,postman,docker&perline=12)](https://skillicons.dev)
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2561&layout=compact&theme=radical)
 
 ## 🏆 Projects
 [![Chat-APP](https://github-readme-stats.vercel.app/api/pin/?username=aayush2561&repo=chat-app&border_color=289BF9&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=289BF9)](https://github.com/aayush2561/chat-app)
